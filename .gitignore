@@ -52,3 +52,7 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+/FinancialClassifier/.vs/FinancialClassifier/v17
+/FinancialClassifier/.vs/FinancialClassifier/DesignTimeBuild
+/FinancialClassifier/.vs/FinancialClassifier/FileContentIndex/*.vsidx
+/FinancialClassifier/.vs/ProjectEvaluation/*.bin
